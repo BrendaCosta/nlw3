@@ -24,3 +24,38 @@ display:flex;
   justify-content: center;  // alinha elementos no eixo Y
   margin: auto;             // alinha laterais dos elementos
 ~~~  
+
+## DIA 02 13/10
+- Bem intenso: foram 3 horas de aula e umas 6 horas codando
+- Bastante CSS e algumas funções em JS
+- Trabalho com uma biblioteca de mapas: leafletjs.com
+- Trabalho com reponsividade 
+- Algumas funções do CSS que ainda não tinha usado
+- Animação com CSS: de aparição de conteúdo 
+- Z-index
+
+### Tags do CSS 
+- Clamp (valor minimo, valor ideal, valor maximo)
+- Aside -> para lateralidade dos conteúdos
+- Box-sizing: content-box ~ é o padrão, ele soma a partir do conteúdo
+- Box-sizing: border-box ~ soma da borda para fora
+
+## Para customizar somente o primeiro elemento usa esse >
+~~~
+.orphanage-details > img {
+  width: 100%;
+  height: 30rem;
+  object-fit: cover; // Ajusta a proporção das imagens
+}
+~~~
+
+### Uso de Display
+- Display: flex -> Os elementos são organizadas ou lado ou abaixo
+- Display: grid -> Os elementos são organizados multidirecionais
+
+### Javascript
+-Função para voltar. Ela memoriza os passos e guarda o passo anterior
+
+~~~
+<button onclick="history.back()">
+~~~
