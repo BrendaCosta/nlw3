@@ -59,3 +59,9 @@ display:flex;
 ~~~
 <button onclick="history.back()">
 ~~~
+
+## DIA 03 14/10
+
+- Foi uma aula mais leve
+- Bastante código Js
+- Erros de digitação me fez travar em alguns pontos
