@@ -4,6 +4,7 @@ Projeto da semana NLW da Rocketseat
 - Para iniciantes
 - HTML, CSS e JS
 
+
 ## DIA 01 12/10
 - Bem tranquilo
 - HTML e CSS
@@ -65,3 +66,8 @@ display:flex;
 - Foi uma aula mais leve
 - Bastante código Js
 - Erros de digitação me fez travar em alguns pontos
+
+## DIA 04 15/10
+
+- Adaptação do projeto para receber o back-end
+- Usamos uma template enginer - A HBS 
