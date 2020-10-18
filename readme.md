@@ -71,3 +71,10 @@ display:flex;
 
 - Adaptação do projeto para receber o back-end
 - Usamos uma template enginer - A HBS 
+
+
+## DIA 05 16/10
+- Chegamos ao ultimo dia!!
+- Conectamos com o banco de dados
+- Aprendemos a puxar de uma API fictícia 
+- Aprimoramos o uso da biblioteca de mapa

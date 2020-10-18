@@ -95,6 +95,14 @@ function toggleSelect(event) {
   input.value = button.dataset.value
 
 
-
-
 }
+// function validate(event) {
+
+//   //validar se lat lng estão preenchidos
+
+//   const lat = document.querySelector('[name = "lat"]')
+
+
+//   //event.preventDefault()
+ //     window.alert('selecione um lugar no mapa')
+// }
