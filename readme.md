@@ -55,7 +55,7 @@ display:flex;
 - Display: grid -> Os elementos são organizados multidirecionais
 
 ### Javascript
--Função para voltar. Ela memoriza os passos e guarda o passo anterior
+- Função para voltar. Ela memoriza os passos e guarda o passo anterior
 
 ~~~
 <button onclick="history.back()">
