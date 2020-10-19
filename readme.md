@@ -78,3 +78,17 @@ display:flex;
 - Conectamos com o banco de dados
 - Aprendemos a puxar de uma API fictícia 
 - Aprimoramos o uso da biblioteca de mapa
+
+### Para cadastrar as imagens no banco de dados passamos elas como string
+- Assim que colocamos no banco
+~~~
+images:[
+  "https://picsum.photos/200/300?random=1",
+  "https://picsum.photos/200/300?random=2",
+  "https://picsum.photos/200/300?random=3"
+].toString()
+~~~ 
+- Assim que arrumamos cada imagem para colocar no front, quebramos os elementos a partir de cada virgula, assim cada URL será um elemento
+~~~ 
+orphanage.images = orphanage.images.split(",")
+~~~ 
